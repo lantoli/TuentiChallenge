@@ -1,0 +1,2 @@
+total: 4 a:3 b:4
+lenData: 5
