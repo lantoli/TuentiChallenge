@@ -1,4 +1,0 @@
-NiceVille 37200
-StrangeVille 6000
-UglyVille 16200
-RandomVille 18600
